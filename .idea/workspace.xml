@@ -88,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574047863097</updated>
-      <workItem from="1574047865607" duration="18342000" />
+      <workItem from="1574047865607" duration="18887000" />
     </task>
     <task id="LOCAL-00001" summary="finished the header of the desktop version">
       <created>1574088624880</created>
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574088624880</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mobile version of header">
+      <created>1574089499241</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574089499241</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished the header of the desktop version" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished the header of the desktop version" />
+    <MESSAGE value="mobile version of header" />
+    <option name="LAST_COMMIT_MESSAGE" value="mobile version of header" />
   </component>
 </project>
