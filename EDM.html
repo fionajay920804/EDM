@@ -21,9 +21,126 @@
             background: #eeeeee;
             -webkit-text-size-adjust: none
         }
+
+        td.container {
+            width: 600px;
+            min-width: 600px;
+            font-size: 0pt;
+            font-weight: normal;
+            line-height: 0pt;
+            margin: 0;
+        }
+
+        td.header-corner {
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+            line-height: 1.4em;
+            text-align: right;
+        }
+
+        td.header-banner {
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            line-height: 1.6em;
+            text-align: right;
+            vertical-align: bottom;
+        }
+
+        th.desktop-column {
+            font-size: 0pt;
+            line-height: 0pt;
+            padding: 0;
+            margin: 0;
+            font-weight: normal;
+        }
+
+        @media only screen and (max-device-width: 480px), only screen and (max-width: 480px) {
+            .mobile-width {
+                width: 100% !important;
+                min-width: 100% !important;
+            }
+        }
+
     </style>
 </head>
 <body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#eeeeee">
+    <tbody>
+    <tr>
+        <td align="center" valign="top">
+            <table width="600" border="0" cellspacing="0" cellpadding="0" class="mobile-width">
+                <tbody>
+                <tr>
+                    <td class="container">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                            <tr>
+                                <td style="padding: 10px 30px 0px" bgcolor="#085bab">
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td class="header-corner mobile-center">
+                                                Can't see this email?<a href="#" target="_blank"><span
+                                                    style="color:#ffffff;"> View online</span></a>
+
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 0px 30px 30px" bgcolor="#085bab">
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tbody>
+                                        <tr>
+                                            <th class="desktop-column" width="249" style="vertical-align:top;">
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td style="text-align: left">
+                                                            <img src="images/logo.png" alt="THE EDM TEST"
+                                                                 width="249" height="45" border="0">
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+                                            </th>
+                                            <th class="desktop-column" valign="bottom">
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td class="header-banner">
+                                                            <a href="#" target="_blank"><span style="color:#ffffff;">Products </span></a>&nbsp;&nbsp;
+                                                            <a href="#" target="_blank"><span style="color:#ffffff;"> Services </span></a>&nbsp;&nbsp;
+                                                            <a href="#" target="_blank"><span style="color:#ffffff;"> Stores </span></a>&nbsp;&nbsp;
+                                                            <a href="#" target="_blank"><span style="color:#ffffff;"> Contact us</span></a>
+
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+
+                                            </th>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+
+    </tr>
+    </tbody>
+</table>
 
 </body>
 </html>
