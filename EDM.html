@@ -57,9 +57,18 @@
         }
 
         @media only screen and (max-device-width: 480px), only screen and (max-width: 480px) {
-            .mobile-width {
+            .mobile-width, .mobile-container {
                 width: 100% !important;
                 min-width: 100% !important;
+            }
+
+            .mobile-column {
+                width: 100% !important;
+                display: block !important;
+            }
+
+            .mobile-center {
+                text-align: center !important;
             }
         }
 
@@ -73,7 +82,7 @@
             <table width="600" border="0" cellspacing="0" cellpadding="0" class="mobile-width">
                 <tbody>
                 <tr>
-                    <td class="container">
+                    <td class="container mobile-container">
                         <table width="100%" border="0" cellspacing="0" cellpadding="0">
                             <tbody>
                             <tr>
@@ -95,11 +104,12 @@
                                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
                                         <tbody>
                                         <tr>
-                                            <th class="desktop-column" width="249" style="vertical-align:top;">
+                                            <th class="desktop-column mobile-column" width="249"
+                                                style="vertical-align:top;">
                                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                                                     <tbody>
                                                     <tr>
-                                                        <td style="text-align: left">
+                                                        <td class="mobile-center" style="text-align: left">
                                                             <img src="images/logo.png" alt="THE EDM TEST"
                                                                  width="249" height="45" border="0">
                                                         </td>
@@ -107,11 +117,11 @@
                                                     </tbody>
                                                 </table>
                                             </th>
-                                            <th class="desktop-column" valign="bottom">
+                                            <th class="desktop-column mobile-column" valign="bottom">
                                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                                                     <tbody>
                                                     <tr>
-                                                        <td class="header-banner">
+                                                        <td class="header-banner mobile-center">
                                                             <a href="#" target="_blank"><span style="color:#ffffff;">Products </span></a>&nbsp;&nbsp;
                                                             <a href="#" target="_blank"><span style="color:#ffffff;"> Services </span></a>&nbsp;&nbsp;
                                                             <a href="#" target="_blank"><span style="color:#ffffff;"> Stores </span></a>&nbsp;&nbsp;
