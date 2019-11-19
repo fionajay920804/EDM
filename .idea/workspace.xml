@@ -88,7 +88,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574047863097</updated>
-      <workItem from="1574047865607" duration="18887000" />
+      <workItem from="1574047865607" duration="19531000" />
+      <workItem from="1574123452191" duration="1129000" />
     </task>
     <task id="LOCAL-00001" summary="finished the header of the desktop version">
       <created>1574088624880</created>
@@ -104,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574089499241</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adjusted the padding">
+      <created>1574090044413</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574090044413</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +123,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -124,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished the header of the desktop version" />
     <MESSAGE value="mobile version of header" />
-    <option name="LAST_COMMIT_MESSAGE" value="mobile version of header" />
+    <MESSAGE value="adjusted the padding" />
+    <option name="LAST_COMMIT_MESSAGE" value="adjusted the padding" />
   </component>
 </project>
