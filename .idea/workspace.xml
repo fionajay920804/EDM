@@ -89,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574047863097</updated>
       <workItem from="1574047865607" duration="19531000" />
-      <workItem from="1574123452191" duration="6802000" />
+      <workItem from="1574123452191" duration="8023000" />
     </task>
     <task id="LOCAL-00001" summary="finished the header of the desktop version">
       <created>1574088624880</created>
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574126014110</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="complete the second row">
+      <created>1574133623529</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574133623529</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +158,7 @@
     <MESSAGE value="adjusted the padding" />
     <MESSAGE value="complete the big image row" />
     <MESSAGE value="changed the padding of header and first row" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed the padding of header and first row" />
+    <MESSAGE value="complete the second row" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete the second row" />
   </component>
 </project>
