@@ -89,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574047863097</updated>
       <workItem from="1574047865607" duration="19531000" />
-      <workItem from="1574123452191" duration="15416000" />
+      <workItem from="1574123452191" duration="16014000" />
     </task>
     <task id="LOCAL-00001" summary="finished the header of the desktop version">
       <created>1574088624880</created>
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574142549589</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="finish the footer">
+      <created>1574143700086</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574143700086</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +190,7 @@
     <MESSAGE value="change the padding structure of the second column" />
     <MESSAGE value="finish the body of the email" />
     <MESSAGE value="finish the delivery block and social media block and bottom banner" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish the delivery block and social media block and bottom banner" />
+    <MESSAGE value="finish the footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish the footer" />
   </component>
 </project>
